@@ -1,5 +1,5 @@
 
-de {
+node {
 
     withMaven(maven:'maven') {
 
